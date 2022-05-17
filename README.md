@@ -1,0 +1,1 @@
+# checkerboard-pattern-of-nxn-using-numpy
